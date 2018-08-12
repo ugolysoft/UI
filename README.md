@@ -1,0 +1,2 @@
+UI - StackOverflow-lite is a collection of user interfaces components that can be used to create Web Application platform where people can ask questions and provide answers. It has the following User Interface features: login, singup, post question, answers to question with features to provide answer, voteup or vote down answers, comments on answers and question.
+It is a simple UI but very effective for beginners.  
